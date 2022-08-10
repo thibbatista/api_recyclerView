@@ -1,149 +1,64 @@
-
 [
   {
-    "imagePrincipal": "https://wedologos.bladecdn.net/wp-content/uploads/2015/12/ruido_salao.jpg",
-    "imagesSecundary": [
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      }
+    "categoryTitle": "Hollywood",
+    "categoryItemList": [
+      { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood1.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood2.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood3.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood4.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood5.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood6.webp"}
       
     ]
   },
-
-  {
-    "imagePrincipal": "https://wedologos.bladecdn.net/wp-content/uploads/2015/12/ruido_salao.jpg",
-    "imagesSecundary": [
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      }
-
+  
+   {
+    "categoryTitle": "Best of Oscars",
+    "categoryItemList": [
+      { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar1.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar2.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar3.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar4.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar5.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar6.webp"}
+      
     ]
   },
-
-  {
-    "imagePrincipal": "https://wedologos.bladecdn.net/wp-content/uploads/2015/12/ruido_salao.jpg",
-    "imagesSecundary": [
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      }
-
+  
+   {
+    "categoryTitle": "Movies Dubbed in Hindi",
+    "categoryItemList": [
+      { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/moviedubbedinhindi1.webp"},
+       {  "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/moviedubbedinhindi2.webp"},
+       {  "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/moviedubbedinhindi3.webp"},
+       {  "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/moviedubbedinhindi4.webp"},
+       {  "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/moviedubbedinhindi5.webp"},
+       {  "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/moviedubbedinhindi6.webp"}
+      
     ]
   },
-
-  {
-    "imagePrincipal": "https://wedologos.bladecdn.net/wp-content/uploads/2015/12/ruido_salao.jpg",
-    "imagesSecundary": [
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      }
-
+   {
+    "categoryTitle": "Category 4th",
+    "categoryItemList": [
+      { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood1.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood2.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood3.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood4.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood5.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood6.webp"}
+      
     ]
   },
-
   {
-    "imagePrincipal": "https://wedologos.bladecdn.net/wp-content/uploads/2015/12/ruido_salao.jpg",
-    "imagesSecundary": [
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      }
-
-    ]
-  },
-
-  {
-    "imagePrincipal": "https://wedologos.bladecdn.net/wp-content/uploads/2015/12/ruido_salao.jpg",
-    "imagesSecundary": [
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      }
-
-    ]
-  },
-
-  {
-    "imagePrincipal": "https://wedologos.bladecdn.net/wp-content/uploads/2015/12/ruido_salao.jpg",
-    "imagesSecundary": [
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      },
-      {"image":  "https://images.squarespace-cdn.com/content/v1/5717d28a4d088e58f3740f6d/1618514683884-3UMG8PIRX54QWO6GA94P/IMG_3744.jpeg?format=1000w"
-      }
-
+    "categoryTitle": "Category 5th",
+    "categoryItemList": [
+      { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar1.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar2.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar3.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar4.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar5.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar6.webp"}
     ]
   }
+  
 ]
