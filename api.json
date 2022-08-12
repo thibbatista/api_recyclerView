@@ -48,15 +48,15 @@
        { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar6.webp"}
     ]
   },
-   {
-    "categoryTitle": "Best of Oscars",
+  {
+    "categoryTitle": "Hollywood",
     "categoryItemList": [
-      { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar1.webp"},
-       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar2.webp"},
-       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar3.webp"},
-       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar4.webp"},
-       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar5.webp"},
-       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar6.webp"}
+      { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood1.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood2.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood3.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood4.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood5.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood6.webp"}
       
     ]
   },
