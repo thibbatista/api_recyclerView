@@ -85,18 +85,7 @@
       
     ]
   },
-   {
-    "categoryTitle": "Best of Oscars",
-    "categoryItemList": [
-      { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar1.webp"},
-       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar2.webp"},
-       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar3.webp"},
-       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar4.webp"},
-       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar5.webp"},
-       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar6.webp"}
-      
-    ]
-  },
+   
   
    {
     "categoryTitle": "Movies Dubbed in Hindi",
@@ -112,6 +101,30 @@
   },
    {
     "categoryTitle": "Category 4th",
+    "categoryItemList": [
+      { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood1.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood2.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood3.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood4.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood5.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood6.webp"}
+      
+    ]
+  },
+  {
+    "categoryTitle": "Best of Oscars",
+    "categoryItemList": [
+      { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar1.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar2.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar3.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar4.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar5.webp"},
+       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/bestofoscar6.webp"}
+      
+    ]
+  },
+  {
+    "categoryTitle": "Hollywood",
     "categoryItemList": [
       { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood1.webp"},
        { "imageUrl": "https://raw.githubusercontent.com/thibbatista/Api-NestedRecyclerView/main/hollywood2.webp"},
